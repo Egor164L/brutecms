@@ -1,7 +1,7 @@
 # BruteCMS v1.0.1
 ## Author: github.com/thelinuxchoice
 ## IG: instagram.com/thelinuxchoice
-### Don't copy this code without give me the credits, nerd! Read GNU License. 
+### Don't copy this code without give me the credits, nerd! Read GNU Licene. 
 BruteCMSl is an Shell Script to perform Multi-threaded CMS BruteForcer against WordPress, Joomla, Drupal, OpenCart
 
 ## Legal disclaimer:
